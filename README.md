@@ -2,14 +2,14 @@
 
 <div align="center">
 
-  <h2>📄 Portfolio</h2>
+<h2>📄 Portfolio</h2>
 
-  <a href="https://github.com/user-attachments/files/29950553/_._.pdf">
-    <img
-      src="https://img.shields.io/badge/Backend_Portfolio-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-      alt="Backend Portfolio PDF"
-    />
-  </a>
+<a href="./김동혁_백엔드_포트폴리오.pdf">
+  <img
+    src="https://img.shields.io/badge/Backend_Portfolio-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    alt="Backend Portfolio PDF"
+  />
+</a>
 
   <br><br>
 
